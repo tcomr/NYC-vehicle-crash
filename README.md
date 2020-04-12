@@ -23,7 +23,8 @@ The data was collected and recorded by NYPD (New York Police Department) in the 
 * Created interactive heat maps  using folium for geo-location over the map of NYC 
 * Plotted maps using matplotlib and pandas for specific hour, month, injury type
 # When most accidents happen? 
-The following figure shows how accidents happen each month:
+The following figure shows how accidents happen each hour:
+![]('img/Total_crashes_2017_.png')
 The high number of deadly accidents happen in the afternoon around 3:00 pm and around 7:00 am in the morning, which correlates to the time for school beginning and closing time. So, It might be directly related to school children/students related accidents. But for full confidence, more detail observation and analysis of data is needed. 
 
 The following figure shows that most accidents happen in evening rush hour around 5pm with second peak during morning rush hour around 9am. 
