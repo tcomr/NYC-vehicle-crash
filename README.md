@@ -48,7 +48,9 @@ Most people died in 3rd avenue followed by West st, and Broadway. The most dange
 
 ![](img/killed_different_st.png)
 
-The data shows that most accidents happen in Broadway followed by Atlantic Avenue. 
+The data also shows that most accidents happen in Third Avenue, Broadway followed, and Atlantic Avenue are the top three places where crashes happen most. 
+![](img/street_names.png)
+
 
 # Conclusion :
 * Implement stricter rules (distracted driving: 32%, avoidable) 
