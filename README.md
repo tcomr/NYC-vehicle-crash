@@ -23,14 +23,22 @@ The data was collected and recorded by NYPD (New York Police Department) in the 
 * Created interactive heat maps  using folium for geo-location over the map of NYC 
 * Plotted maps using matplotlib and pandas for specific hour, month, injury type
 # When most accidents happen? 
-The following figure shows how accidents happen each hour:
-![]('img/Total_crashes_2017_.png')
-The high number of deadly accidents happen in the afternoon around 3:00 pm and around 7:00 am in the morning, which correlates to the time for school beginning and closing time. So, It might be directly related to school children/students related accidents. But for full confidence, more detail observation and analysis of data is needed. 
 
 The following figure shows that most accidents happen in evening rush hour around 5pm with second peak during morning rush hour around 9am. 
+![](img/Total_crashes_2017_.png)
+
+However, the total death of pedestrian, cyclist, motorists appears to be at highest around 7am and 3 pm. 
+![](img/death_plot.png)
+
+The high number of deadly accidents happen in the afternoon around 3:00 pm and around 7:00 am in the morning, which correlates to the time for school beginning and closing time. So, It might be directly related to school children/students related accidents. But for full confidence, more detail observation and analysis of data is needed. 
+
+
 
 
 # How most accidents happen ? 
+![](img/top10_reasons_of_crash.png)
+
+
 More than 32% accidents happened alone from Driver Inattention/Distraction and more than 84% accidents for main vehicle happened from 10 reasons including improperly passing or lane changing, following too closely, etc. with respective percentage of 
 * [32.25, 10.25, 8.41, 7.73, 6.32, 5.86, 3.96, 3.45, 3.35, 2.5]
 
