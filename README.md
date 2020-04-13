@@ -43,7 +43,11 @@ More than 32% accidents happened alone from Driver Inattention/Distraction and m
 * [32.25, 10.25, 8.41, 7.73, 6.32, 5.86, 3.96, 3.45, 3.35, 2.5]
 
 
-# Where Accidents happen most? 
+# Where fatal accidents happen most? 
+Most people died in 3rd avenue followed by West st, and Broadway. The most dangerous places are given below: 
+
+![](img/killed_different_st.png)
+
 The data shows that most accidents happen in Broadway followed by Atlantic Avenue. 
 
 # Conclusion :
